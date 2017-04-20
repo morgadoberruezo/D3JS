@@ -1,0 +1,13 @@
+svg {
+    width: 1000px;
+    height: 300px;
+    border: 2px solid #aaa;
+}
+rect {
+    fill: blue;
+    stroke: orange;
+    stroke-width: 1px;
+}
+text {
+    font-size: 12px;
+}

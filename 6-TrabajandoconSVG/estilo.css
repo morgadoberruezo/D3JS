@@ -1,0 +1,18 @@
+svg {
+  border: 2px solid #aaa;
+}
+
+rect {
+    fill: blue;
+    opacity: 0.6;
+}
+
+line {
+    stroke: purple;
+}
+
+text {
+    fill: gray;
+    font-family: Helvetica;
+    font-size: 16px;
+}

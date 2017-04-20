@@ -1,0 +1,9 @@
+.barra {
+    width: 30px;
+    height: 100px;
+    margin-right: 3px;
+    background-color: blueviolet;
+    display: inline-block;
+    color: white;
+    text-align: center;
+}
